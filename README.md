@@ -26,7 +26,9 @@ A few of things could explain this:
 Based on the results of this analysis, we can offer 3 recommendations to the CEO of PyBer:
   
   1: Look into reducing the average fare price for rural settings per trip. A communal ride-share program, for instance, to ferry people from rural communites to jobs in more      suburban or urban settings and allowing people to share the same Pyber and thus pool the cost of fare money
+  
   2: Continue, and possibly increase, marketing and presence in urban areas. This is where the most money is coming in, and there are several ride-share companies out there        now. Make sure you are first in the consumers mind.
+  
   3: Explore creating a sort of "PyBer Elite" sort of program, possibly a monthly subscription or reloadable account on the app that gives frequent users ride credits,              discounts, promotions at popular retail outlets, etc. This will incentivize the consumer to use PyBer over commpetitors, as people are often drawn to these types of            prommotions because they percieve "getting back" from the company. 
   
   
