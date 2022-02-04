@@ -12,4 +12,4 @@ By breaking the data down into city "types" rather than per individual city, we 
 
 As one might expected, the more population dense urban cities yielded much higher total fares than the less populated suburban and rural cities. However, if we look at the following chart: 
 
-![Average Fare vs Number of Rides by City Type](https://github.com/BPeaver/PyBer_Analysis/tree/main/PyBer%20Challenge/Analysis)
+![Average Fare vs Number of Rides by City Type](https://github.com/BPeaver/PyBer_Analysis/blob/main/PyBer%20Challenge/Analysis/Fig1.png)
